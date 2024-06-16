@@ -1,0 +1,15 @@
+{
+  "name": "landing-page-estrela-do-oriente",
+  "version": "1.0.0",
+  "description": "Landing Page criada em conjunto com os alunos do curso de auxiliar de cozinha da professora Larissa do Senac DF",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./styles/style.css -o ./styles/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
